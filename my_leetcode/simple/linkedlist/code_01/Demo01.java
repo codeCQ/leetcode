@@ -1,4 +1,4 @@
-package simple.code_01;
+package simple.linkedlist.code_01;
         import java.util.Arrays;
         import java.util.HashMap;
         import java.util.List;

@@ -1,4 +1,4 @@
-package simple.code_141;
+package simple.linkedlist.code_141;
 
 /**
  * author ChenQian

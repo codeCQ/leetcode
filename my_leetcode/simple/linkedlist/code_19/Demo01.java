@@ -1,6 +1,6 @@
-package simple.code_19;
+package simple.linkedlist.code_19;
 
-import simple.Utils.ListNode;
+import simple.linkedlist.Utils.ListNode;
 
 public class Demo01 {
     public static void main(String[] args) {

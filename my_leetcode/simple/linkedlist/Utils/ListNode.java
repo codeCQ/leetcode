@@ -1,4 +1,4 @@
-package simple.Utils;
+package simple.linkedlist.Utils;
 
 public class ListNode {
     public int val;

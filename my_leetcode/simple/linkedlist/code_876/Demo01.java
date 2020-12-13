@@ -1,6 +1,6 @@
-package simple.code_876;
+package simple.linkedlist.code_876;
 
-import simple.Utils.ListNode;
+import simple.linkedlist.Utils.ListNode;
 
 public class Demo01 {
 
